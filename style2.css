@@ -92,10 +92,16 @@ p.menuname.new-vid{
 
 a.nvideos{
   text-decoration: none;
+  display: flex;
 }
 
 p.menuname {
   margin: -4px 10px;
+}
+
+i.fas.fa-plus {
+  color: #fff;
+  margin-left: 62px;
 }
 
 ul.all-litems {
